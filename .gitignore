@@ -1,0 +1,20 @@
+# Environments
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# API keys / credentials
+client_secret*.json
+token.json
+*.key
+
+# OS/editor junk
+.DS_Store
+.vscode/
+.ipynb_checkpoints/
+
+# Large raw data (optional — keep out of git if it's big or sensitive)
+data/raw/
+.vercel
