@@ -40,7 +40,7 @@ and comment sentiment — built on the YouTube Data API and YouTube Analytics AP
 - **54.64%** of views come from YouTube Shorts — distribution depends on one surface
 - **96.2%** of comments are positive (VADER sentiment, 106 comments scored)
 
-See the full [Executive Summary](reports/executive_summary.pdf) for details.
+See the full [Executive Summary](reports/Channel_Performance_Executive_Summary.pdf) for details.
 
 ## 🛠️ Tech stack
 
