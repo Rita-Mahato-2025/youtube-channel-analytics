@@ -47,7 +47,6 @@ See the full [Executive Summary](reports/Channel_Performance_Executive_Summary.p
 - Python (pandas, matplotlib, VADER/`vaderSentiment`)
 - YouTube Data API v3
 - YouTube Analytics API
-- [Interactive dashboard link]
 
 ## 🚀 Getting started
 
