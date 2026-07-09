@@ -6,6 +6,7 @@ and comment sentiment — built on the YouTube Data API and YouTube Analytics AP
 ### Domain : Social Media Analytics
 
 **Live Dashboard:** [Click here](https://my-dashboard-iota-one.vercel.app)
+[![Watch the video](https://img.youtube.com/vi/EbpM9EVoKik/maxresdefault.jpg)](https://www.youtube.com/watch?v=EbpM9EVoKik)
 
 ---
 
